@@ -43,15 +43,6 @@ Successfully created a machine learning pipeline that can:
 - Analyze new review data
 - Predict the likelihood of a customer purchasing a ticket
 
-## 📁 Folder Structure
-
-```
-📦airline-review-project
- ┣ 📜data/
- ┣ 📜notebooks/
- ┣ 📜images/
- ┗ 📜README.md
-```
 
 ## 🙌 Acknowledgments
 
